@@ -1,3 +1,6 @@
 .headerContainer {
   background-color: #45556e;
 }
+.imageContainer {
+  border: solid 2px red;
+}
