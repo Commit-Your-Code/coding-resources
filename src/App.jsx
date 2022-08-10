@@ -1,6 +1,6 @@
-import Header from "./components/Header.jsx"
+import Header from "./components/Header/Header.jsx"
 import "./App.css"
-import FreeContent from "./components/FreeContent.jsx"
+import FreeContent from "./components/FreeContent/FreeContent.jsx"
 
 function App() {
   return (
