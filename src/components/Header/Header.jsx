@@ -1,6 +1,5 @@
-import style from "../assets/css/Header.module.css"
-import HeaderImage from "../assets/images/header_learning.png"
-
+import style from "./Header.module.css"
+import HeaderImage from "./header_learning.png"
 const Header = () => {
   return (
     <div>
